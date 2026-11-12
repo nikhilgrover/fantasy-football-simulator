@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "fantasy-football-sim",
     "public": "dist",
     "ignore": [
       "firebase.json",

@@ -2,7 +2,7 @@
 
 An agentic, high-performance fantasy football drafting simulator and 14-week head-to-head season engine built with React, TypeScript, Tailwind CSS, and hosted live on Firebase.
 
-🌐 **Live Application**: [https://fantasy-sim-12184.web.app](https://fantasy-sim-12184.web.app)  
+🌐 **Live Application**: [https://fantasy-football-sim.web.app](https://fantasy-football-sim.web.app)  
 📦 **GitHub Repository**: [nikhilgrover/fantasy-football-simulator](https://github.com/nikhilgrover/fantasy-football-simulator)
 
 ---
